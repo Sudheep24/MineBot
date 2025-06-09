@@ -9,16 +9,20 @@ MineBot provides **free legal information** and helps businesses save **10-15% o
 
 ---
 
-## Built With
+## 🚀 Built With
 
-- Pinecone Serverless  
-- Vercel AI SDK + OpenAI  
-- Next.js + Tailwind CSS  
-- Node.js (v20 or higher)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 This project uses a simple client/server architecture separating the frontend and backend for easy stack swapping.
 
@@ -36,7 +40,7 @@ This project uses a simple client/server architecture separating the frontend an
 
 ---
 
-## Core Concepts
+## 🧠 Core Concepts
 
 ### Multi-Tenant RAG Architecture
 
@@ -47,7 +51,7 @@ This project uses a simple client/server architecture separating the frontend an
 
 ---
 
-## How It Works
+## 🔧 How It Works
 
 1. **File Upload & Chunking:** PDFs are parsed and split into paragraph-sized chunks.  
 2. **Embedding:** Chunks are embedded using OpenAI’s text-embedding-3-small model.  
@@ -57,7 +61,7 @@ This project uses a simple client/server architecture separating the frontend an
 
 ---
 
-## Usage
+## 📦 Usage
 
 - Upload your legal documents or FAQs to create a knowledge base.  
 - Interact with MineBot to get fast, accurate legal answers.  
@@ -65,22 +69,16 @@ This project uses a simple client/server architecture separating the frontend an
 
 ---
 
-## Screenshots / Images
+## 📸 Screenshots / Images
 
-<!--
-Upload your images to your repo or an image hosting service and replace the URLs below.
--->
+<!-- Replace these with actual image links after uploading to your repo or an image hosting platform -->
 
-### Frontend Chat Interface  
 ![Frontend Chat Interface](ss1)
 
-### Backend Architecture Diagram  
 ![Backend Architecture](ss2)
 
-### Pinecone Namespace Structure  
 ![Pinecone Namespace](ss3)
 
 ---
 
 Feel free to customize and extend this README with installation instructions, environment setup, or API usage examples as needed!
-
