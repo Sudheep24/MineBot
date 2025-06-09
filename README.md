@@ -72,13 +72,13 @@ Upload your images to your repo or an image hosting service and replace the URLs
 -->
 
 ### Frontend Chat Interface  
-![Frontend Chat Interface](https://your-image-link.com/frontend-chat.png)
+![Frontend Chat Interface](ss1)
 
 ### Backend Architecture Diagram  
-![Backend Architecture](https://your-image-link.com/backend-architecture.png)
+![Backend Architecture](ss2)
 
 ### Pinecone Namespace Structure  
-![Pinecone Namespace](https://your-image-link.com/pinecone-namespace.png)
+![Pinecone Namespace](ss3)
 
 ---
 
